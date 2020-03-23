@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://devzahi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>随笔</title>
+      <link>https://devzahi.github.io/tags/%E9%9A%8F%E7%AC%94/</link>
+      <pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://devzahi.github.io/tags/%E9%9A%8F%E7%AC%94/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

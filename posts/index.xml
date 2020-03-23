@@ -1,0 +1,52 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Zixuan&#39;s Blog</title>
+		<link>https://devzahi.github.io/posts/</link>
+		<description>Recent content in Posts on Zixuan&#39;s Blog</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0000</lastBuildDate>
+		<atom:link href="https://devzahi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>开博第一篇</title>
+			<link>https://devzahi.github.io/posts/first-post/</link>
+			<pubDate>Mon, 23 Mar 2020 00:00:00 +0000</pubDate>
+			
+			<guid>https://devzahi.github.io/posts/first-post/</guid>
+			<description>距离上一次写博客，大概已经有4、5年的时间了。
+刚毕业那时，刚刚接触iOS这个方向，看了很多大神的博客，觉得有一个自己的博客是一件很酷的事。后来就找了一个博客托管平台，还在GoDaddy上买了一年的域名，也开始自己写博客。
+刚开始写的时候肯定是干劲满满啦，写着写着发现，写博客真的是一件很花时间和精力的事。想到内容到组织语言到写出来难度层层递增，涉及到技术类的文章还要提前做功课、整理资料、码代码做Demo，所花的时间也层层递增。如果想要文章做的精美一点还要找配图，录视频做展示GIF。慢慢就偷懒没定期写了，博客也就荒废了，一年后域名过期后也没续费，索性就把博客关了。
+为什么 说说为啥隔了这么多年又重新开博
+ 专业知识：做开发多年没有构建自己的知识网络，开博客督促自己定期整理、记录开发相关的知识 业余爱好：除了自己的专业知识，平常也想分享一下自己的一些业余爱好 锻炼文笔：做越久开发越会发现，除了专业知识这种硬技能以外，能把自己所想的东西表达的清晰明了，是一件非常加分的事情，希望通过写博客锻炼自己的这种能力  怎么做  在专业知识方面，我会每周记录一下我在某一个方向的学习笔记，或者是我在工作中遇到的问题和心得。并且会编写对应的代码和Demo上传到我的Github上。 不定期分享一些最近感兴趣的东西（自制美食、数码产品、之前没接触过的知识） 每年给自己立几个目标，和在年底的时候给自己在今年的一个总结  2020年目标  博客不断更 学习英语 再学习一门语言Python/Go 上线自己的APP 锻炼身体 iOS深入学习几个感兴趣的方向（音视频、Metal、动画）  </description>
+			<content type="html"><![CDATA[<p>距离上一次写博客，大概已经有4、5年的时间了。</p>
+<p>刚毕业那时，刚刚接触iOS这个方向，看了很多大神的博客，觉得有一个自己的博客是一件很酷的事。后来就找了一个博客托管平台，还在GoDaddy上买了一年的域名，也开始自己写博客。</p>
+<p>刚开始写的时候肯定是干劲满满啦，写着写着发现，写博客真的是一件很花时间和精力的事。想到内容到组织语言到写出来难度层层递增，涉及到技术类的文章还要提前做功课、整理资料、码代码做Demo，所花的时间也层层递增。如果想要文章做的精美一点还要找配图，录视频做展示GIF。慢慢就偷懒没定期写了，博客也就荒废了，一年后域名过期后也没续费，索性就把博客关了。</p>
+<h2 id="为什么">为什么</h2>
+<p>说说为啥隔了这么多年又重新开博</p>
+<ul>
+<li><strong>专业知识：做开发多年没有构建自己的知识网络，开博客督促自己定期整理、记录开发相关的知识</strong></li>
+<li><strong>业余爱好：除了自己的专业知识，平常也想分享一下自己的一些业余爱好</strong></li>
+<li><strong>锻炼文笔：做越久开发越会发现，除了专业知识这种硬技能以外，能把自己所想的东西表达的清晰明了，是一件非常加分的事情，希望通过写博客锻炼自己的这种能力</strong></li>
+</ul>
+<h2 id="怎么做">怎么做</h2>
+<ul>
+<li><strong>在专业知识方面，我会每周记录一下我在某一个方向的学习笔记，或者是我在工作中遇到的问题和心得。并且会编写对应的代码和Demo上传到我的Github上。</strong></li>
+<li><strong>不定期分享一些最近感兴趣的东西（自制美食、数码产品、之前没接触过的知识）</strong></li>
+<li><strong>每年给自己立几个目标，和在年底的时候给自己在今年的一个总结</strong></li>
+</ul>
+<h2 id="2020年目标">2020年目标</h2>
+<ol>
+<li>博客不断更</li>
+<li>学习英语</li>
+<li>再学习一门语言Python/Go</li>
+<li>上线自己的APP</li>
+<li>锻炼身体</li>
+<li>iOS深入学习几个感兴趣的方向（音视频、Metal、动画）</li>
+</ol>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

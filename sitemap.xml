@@ -3,19 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devzahi.github.io/posts/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devzahi.github.io/tags/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devzahi.github.io/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devzahi.github.io/posts/first-post/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://devzahi.github.io/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2020-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://devzahi.github.io/about/</loc>
   </url>
   
   <url>
     <loc>https://devzahi.github.io/showcase/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devzahi.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devzahi.github.io/</loc>
   </url>
   
 </urlset>
